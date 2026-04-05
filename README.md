@@ -1,5 +1,41 @@
 # 🚢 Titanic Survival Prediction – Machine Learning Pipeline  
 
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Made With](https://img.shields.io/badge/Made%20With-❤️-red)
+
+---
+
+## 📊 Project Preview  
+
+### 🔹 Confusion Matrix  
+![Confusion Matrix](images/confusion_matrix.png)
+
+### 🔹 ROC Curve  
+![ROC Curve](images/roc_curve.png)
+
+> *(Make sure your images folder contains these files with same names)*
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## ⚡ Quick Highlights  
+- 📊 Complete ML pipeline using `Pipeline` & `ColumnTransformer`  
+- 📉 Evaluated with Accuracy, F1-score, ROC-AUC  
+- 🔁 5-Fold Cross Validation implemented  
+- 💾 Model saved using Joblib  
+- 📁 Clean project structure for real-world use  
+
+---
 ## 📌 Project Overview  
 This project is developed as part of **Task 5 – Data Science with Python Internship**. It focuses on building a **complete end-to-end machine learning pipeline** using the Titanic dataset to predict passenger survival.
 
