@@ -8,26 +8,6 @@
 
 ---
 
-## 📊 Project Preview  
-
-### 🔹 Confusion Matrix  
-![Confusion Matrix](images/confusion_matrix.png)
-
-### 🔹 ROC Curve  
-![ROC Curve](images/roc_curve.png)
-
-> *(Make sure your images folder contains these files with same names)*
-
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaBahira&show_icons=true&theme=tokyonight&cache_seconds=60)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBahira&layout=compact&theme=tokyonight&cache_seconds=60)
-
----
-
 ## ⚡ Quick Highlights  
 - 📊 Complete ML pipeline using `Pipeline` & `ColumnTransformer`  
 - 📉 Evaluated with Accuracy, F1-score, ROC-AUC  
@@ -49,9 +29,19 @@ The pipeline follows a professional ML workflow, including data preprocessing, m
 - Train a Logistic Regression model  
 - Evaluate model performance using multiple metrics  
 - Apply cross-validation for reliable results  
-- Save and reuse the trained model  
-
+- Save and reuse the trained model
+  
 ---
+
+## 📊 Project Preview  
+
+### 🔹 Confusion Matrix  
+![Confusion Matrix](images/confusion_matrix.png)
+
+### 🔹 ROC Curve  
+![ROC Curve](images/roc_curve.png)
+---
+
 
 ## 📂 Project Structure  
 
