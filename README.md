@@ -22,9 +22,9 @@
 
 ## 📈 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaBahira&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaBahira&show_icons=true&theme=tokyonight&cache_seconds=60)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBahira&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBahira&layout=compact&theme=tokyonight&cache_seconds=60)
 
 ---
 
